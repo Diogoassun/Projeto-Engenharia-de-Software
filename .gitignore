@@ -1,0 +1,15 @@
+# Ignorar pastas geradas automaticamente
+Debug/
+.settings/
+*.launch
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.d
+*.dep
+
+# Arquivos do Eclipse
+.project
+.cproject
